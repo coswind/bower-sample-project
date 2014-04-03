@@ -1,0 +1,23 @@
+{
+  "name": "bower-sample-project",
+  "version": "0.1.0",
+  "description": "bower sample project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coswind/bower-sample-project.git"
+  },
+  "author": "coswind",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/coswind/bower-sample-project/issues"
+  },
+  "homepage": "https://github.com/coswind/bower-sample-project",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-bower": "0.0.4"
+  }
+}

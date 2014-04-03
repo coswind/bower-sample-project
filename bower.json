@@ -1,0 +1,20 @@
+{
+  "name": "bower-sample-project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/coswind/bower-sample-project",
+  "authors": [
+    "Yi Xia <xy2491259@gmail.com>"
+  ],
+  "description": "bower sample project",
+  "keywords": [
+    "bower"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
